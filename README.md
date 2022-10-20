@@ -1,5 +1,7 @@
-Hi 👋, I'm Komil
+                                                Hi 👋, I'm Komil
+
 I am Backend Engineer Based in Uzbekistan, Samarkand
+
 👋 Welcome to my GitHub bio.
 
 ✍️ I'm an 22 y.o experienced programmer(not a printer fixer) with several successful projects under my belt.

@@ -4,7 +4,7 @@ I am Backend Engineer Based in Uzbekistan, Samarkand
 
 👋 Welcome to my GitHub bio.
 
-✍️ I'm an 22 y.o experienced programmer(not a printer fixer) with several successful projects under my belt.
+✍️ I'm an 23 y.o experienced programmer(not a printer fixer) with several successful projects under my belt.
 
 🇬 I'm based in Navoi, Uzbekistan. Curently living in Samarkand
 
